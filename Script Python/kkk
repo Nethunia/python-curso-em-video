@@ -1,0 +1,2 @@
+ d = 1.686
+for p in range(50,150): print p, p * d
